@@ -53,19 +53,6 @@ The Wild Oasis hotel management app is a full-featured React web application des
 - **Styled Components**: CSS-in-JS styling
 - **Vite**: Development server and build tool
 
-## What I Learned
-
-Building "The Wild Oasis" has expanded my technical skills and knowledge in the following areas:
-
-- React fundamentals, authentication, and user management
-- Efficient form handling with React Hook Form
-- Data fetching and caching with React Query
-- Real-time updates and responsive UI design
-- Toast notifications, data visualization, and routing
-- Implementing application-wide settings and dark mode
-- Code reusability with HOCs and Compound Component Pattern
-- Project planning and management with Git version control
-
 ## Installation
 
 1. Clone the repository:
